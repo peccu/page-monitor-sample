@@ -1,6 +1,10 @@
 # page-monitor-sample
 sample of [pmui](https://github.com/fouber/pmui)
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## Usage
 
 1. install
