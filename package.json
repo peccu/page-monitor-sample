@@ -1,0 +1,10 @@
+{
+  "name": "page-monitor-sample",
+  "description": "monitor www.google.com",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "page-monitor": "^0.5.4",
+    "pmui": "^0.2.6"
+  }
+}
