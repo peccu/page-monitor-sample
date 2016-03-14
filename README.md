@@ -1,5 +1,5 @@
 # page-monitor-sample
-sample of pmui
+sample of [pmui](https://github.com/fouber/pmui)
 
 ## Usage
 
